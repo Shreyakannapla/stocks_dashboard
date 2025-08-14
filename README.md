@@ -34,6 +34,7 @@ Tech Stack
 
 <img width="1919" height="949" alt="Screenshot 2025-08-14 142020" src="https://github.com/user-attachments/assets/b2ecc52d-747e-4713-8893-93d5bfe4caf5" />
 
+<img width="1917" height="939" alt="Screenshot 2025-08-14 142035" src="https://github.com/user-attachments/assets/a9b7e04d-5a7f-4662-b232-f1c7653011b5" />
 
 3. Buy/Sell Stock Page
 - Simulate buying and selling stocks.
