@@ -154,7 +154,7 @@ def dashboard():
         st.error("Please log in again.")
         return
 
-    st.title("Stock & F&O Dashboard")
+    st.title("Stocks F&O Dashboard")
 
     ticker = st.sidebar.text_input("Enter Stock Ticker", "AAPL")
     chart_type = st.sidebar.selectbox("Chart Type", ["Candlestick", "Line", "Bar Chart"])
