@@ -32,7 +32,7 @@ Tech Stack
 - Choose between **Stock Data**, **Futures Data**, or **Options Data**.
 - Real-time data fetched from Yahoo Finance.
 
-<img width="1919" height="949" alt="Screenshot 2025-08-14 142020" src="https://github.com/user-attachments/assets/b2ecc52d-747e-4713-8893-93d5bfe4caf5" />
+<img width="1919" height="944" alt="Screenshot 2025-08-14 143516" src="https://github.com/user-attachments/assets/af3dd7da-cd75-4506-8eed-d0f3d3520bd2" />
 
 <img width="1917" height="939" alt="Screenshot 2025-08-14 142035" src="https://github.com/user-attachments/assets/a9b7e04d-5a7f-4662-b232-f1c7653011b5" />
 
